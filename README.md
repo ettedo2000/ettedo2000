@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ettedo2000
 - 👀 I’m interested in PHP, Vuejs, AWS and pretty much erveryting
-- 🌱 I’m currently learning Laravel and Linux
+- 🌱 I’m currently learning about C++ and building your own Game Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
